@@ -1,6 +1,9 @@
 # tempo SMS
 Get the EDF Tempo Status, and send it by SMS to your Free account
 
+# Install
+npm install
+
 # Free Notifications
 get your id and mobile.free.fr and activate SMS notifications, you'll get your pass at https://mobile.free.fr/account/mes-options/notifications-sms 
 
