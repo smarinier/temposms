@@ -92,5 +92,5 @@ const options = yargs
 const config = convict({
 	user:'me',
 	pass:''
-}).loadFile('free.conf');
+}).loadFile(__dirname+'/free.conf');
 main();
